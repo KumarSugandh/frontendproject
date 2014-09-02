@@ -1,26 +1,23 @@
 {
-  "name": "task07",
+  "name": "task06",
   "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "taks06",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tushardemo/frontendninja"
+    "url": "https://github.com/KumarSugandh/frontendproject"
   },
-  "keywords": [
-    "modules"
-  ],
-  "author": "Tushar Joshi",
+  "author": "Kumar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tushardemo/frontendninja/issues"
+    "url": "https://github.com/KumarSugandh/frontendproject/issues"
   },
-  "homepage": "https://github.com/tushardemo/frontendninja",
+  "homepage": "https://github.com/KumarSugandh/frontendproject",
   "devDependencies": {
-    "gulp": "^3.8.6",
-    "gulp-jasmine": "^0.2.0"
+    "gulp": "^3.8.7",
+    "gulp-jasmine": "^1.0.0"
   }
 }
